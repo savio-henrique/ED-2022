@@ -125,17 +125,17 @@ class Deck:
         self.__size -= 1
         return element.get_value()
 
-    def greater(self):
+    def max(self):
         counter = 0
-        great = 0
+        max = 0
         element = self.__get_finish()
         while counter != self.get_size():
-            if element.get_value() > great:
-                great = element.get_value()
+            if element.get_value() > max:
+                max = element.get_value()
             element = element.get_next()
             counter += 1
 
-        return great
+        return max
 
 def main():
     deque = Deck()
