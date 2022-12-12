@@ -26,10 +26,6 @@ class DeckElement:
     def set_previous(self, newPrevious):
         self.__previous = newPrevious
 
-d = DeckElement(2)
-
-print(d.value)
-
 class Deck:
     def __init__(self):
         self.__size = 0
@@ -145,10 +141,20 @@ def main():
     for n in range(size_janela):
         deque.queue(list_num[n])
 
-    print(deque.greater(), end="  ")
+    print(deque.max(), end="  ")
     for i in range(qtd_num-(size_janela-1)-1):
         deque.dequeue(0)
         deque.queue(list_num[i + size_janela])
-        print(deque.greater(), end="  ")
+        print(deque.max(), end="  ")
 
 main()
+
+# Outra soluçao
+# list = [1,2,3,4,3,5,6,7,8]
+# for i in range(len(list)-(3-1)):
+#     maior = 0
+#     nums = list[i:i+3]
+#     for l in nums:
+#         if l > maior:
+#             maior = l
+#     print(maior, end="  ")
