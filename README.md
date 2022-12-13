@@ -1,6 +1,6 @@
 # :computer: Estrutura de Dados - 2022 :computer:
 
-### :snake: Estudo de Estrutura de Dados utilizando a linguagem Python :snake:
+### Estudo de Estrutura de Dados utilizando a linguagem *Python* :snake:
 ### :black_small_square: Disciplina feita na UnB :black_small_square:
 
 # Conteúdo: :brain:
