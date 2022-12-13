@@ -3,10 +3,15 @@
 ## how_long.py 
 
 **O programa faz o calculo do tempo de duraçao de um casamento.** 
+
+### *Input*
+
 > Recebe 2 linhas de *input*, a primeira linha sendo a data de inicio e a segunda sendo a data de termino do evento.
 > As datas sao formatadas da seguinte maneira: 
 >> * 'Data Hora(s):minuto(s):segundo(s)' ;
 >> * '2 00:50:20' 
+
+### *Output*
 
 >E esperado o seguinte formato de *output*:
 >> * 1 dia(s)
@@ -18,8 +23,13 @@
 ## palindrome.py 
 
 **O programa verifica se a *string* dada e capaz de se tornar um palindromo ao alterar um, e somente um, *caractere*.**
+
+### *Input*
+
 > Recebe uma string de *input* com *n* caracteres, como por exemplo:
 >> * *'abcde'* ;
+
+### *Output*
 
 > E e esperado o retorno:
 >> * *POSSÍVEL* - Caso seja possivel;
