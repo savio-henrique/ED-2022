@@ -7,7 +7,7 @@
 * :ballot_box_with_check: Semana 1 : Introdução :desktop_computer:
 * :ballot_box_with_check: Semana 2 : Pilha e Fila :green_book:
 * :ballot_box_with_check: Semana 3 : Deque e Lista :book:
-* :black_large_square: Semana 4 : Recursividade :arrows_clockwise:
+* :ballot_box_with_check: Semana 4 : Recursividade :arrows_clockwise:
 * :black_large_square: Semana 5 : Busca e Ordenação :mag:
 * :black_large_square: Semana 6 : Arvores :herb:
 * :black_large_square: Semana 7 : Grafos :chart_with_upwards_trend:
