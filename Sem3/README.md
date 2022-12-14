@@ -28,7 +28,7 @@
 
 ## list_inversion.py
 
-**Desenvolva uma função, chamada inverterLista(), cujo reverta a ordem de uma lista não ordenada, utilizando a seguinte classe:**
+**Desenvolva uma função, chamada *inverterLista()*, cujo reverta a ordem de uma lista não ordenada, utilizando a seguinte classe:**
 
 ```python
 class Node:
