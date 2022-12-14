@@ -11,14 +11,18 @@
 > O programa recebe 3 *inputs*, sendo o primeiro a quantidade de numeros existentes dentro da lista, 
 > em seguida a lista em si, com seus elementos separados por um espaço em branco e, o ultimo *input*, o tamanho da janela.
 > O input tem o seguinte formato:
->> * 9 ***(primeiro input)***
->> * 10 15 7 8 11 20 27 30 ***(segundo input)***
->> * 3 ***(terceiro input)***
+> ```
+> 9 
+> 10 15 7 8 11 20 27 30 
+> 3 
+> ```
 
 ### *Output*
 
 > O retorno esperado sao os maiores numeros de cada janela, utilizando o *input* de exemplo, nesse formato:
->> * 15  15  11  12  20  27  30
+> ```
+> 15  15  11  12  20  27  30
+> ```
 
 -- --
 
@@ -107,17 +111,21 @@ class UnorderedList:
 
 > O programa não recebe nenhum *input* em especifico, somente uma serie de instruçoes, como por exemplo:
 > ```python
-> L= UnorderedList()
+> L = UnorderedList()
 >
 > L.add(2)
 > L.add(3)
 > L.add(2)
 > L.add(5)
+> 
 > L = inverterLista(L)
+> 
 > print(L)
 >```
 
 ### *Output*
 
 > O retorno esperado depende da lista de instruçoes passadas, como por exemplo, utilizando as instruçoes acima como exemplo:
->> [5, 2, 3, 2]
+> ``` 
+> [5, 2, 3, 2]
+> ```

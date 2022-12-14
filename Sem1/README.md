@@ -8,16 +8,20 @@
 
 > Recebe 2 linhas de *input*, a primeira linha sendo a data de inicio e a segunda sendo a data de termino do evento.
 > As datas sao formatadas da seguinte maneira: 
->> * 'Data Hora(s):minuto(s):segundo(s)' ;
->> * '2 00:50:20' 
+> ```
+> 'Data Hora(s):minuto(s):segundo(s)' 
+> '2 00:50:20' 
+> ```
 
 ### *Output*
 
 >E esperado o seguinte formato de *output*:
->> * 1 dia(s)
->> * 0 hora(s)
->> * 0 minuto(s)
->> * 0 segundo(s)
+> ```
+> 1 dia(s)
+> 0 hora(s)
+> 0 minuto(s)
+> 0 segundo(s)
+> ```
 
 -- --
 ## palindrome.py 
@@ -27,10 +31,14 @@
 ### *Input*
 
 > Recebe uma string de *input* com *n* caracteres, como por exemplo:
->> * *'abcde'* ;
+> ```
+> abcde
+> ```
 
 ### *Output*
 
 > E e esperado o retorno:
->> * *POSSÍVEL* - Caso seja possivel;
->> * *IMPOSSÍVEL* - Caso nao seja possivel.
+> ```
+> POSSÍVEL - Caso seja possivel
+> IMPOSSÍVEL - Caso nao seja possivel
+> ```
