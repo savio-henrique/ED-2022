@@ -40,7 +40,7 @@
 
 -- --
 
-## sabacchard.py {#sabacchard}
+## sabacchard.py
 
 ### Enunciado:
 
@@ -84,4 +84,4 @@ chamada de *"bottom-up"*, onde nao ha recursao alguma, somente uma logica predef
 
 ## sabacchard_teste.py
 
-> **Versao teste do codigo de [sabacchard.py](##sabacchard), onde nao se utiliza da tecnica de *memoization*.**
+> **Versao teste do codigo de [sabacchard.py](#sabacchardpy), onde nao se utiliza da tecnica de *memoization*.**
