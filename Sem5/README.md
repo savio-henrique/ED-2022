@@ -75,3 +75,11 @@
 > Rocha, Miguel
 > Pereira, Heitor
 > ```
+
+-- --
+
+# Codigos extras:
+
+## sort_try.py
+
+> **Versao teste do [sort_pretender.py](#sortpretenderpy).**
