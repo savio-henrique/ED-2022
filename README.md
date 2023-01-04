@@ -11,4 +11,4 @@
 * :ballot_box_with_check: [Semana 4 : Recursividade](https://github.com/savio-henrique/ED-2022/tree/master/Sem4) :arrows_clockwise:
 * :ballot_box_with_check: [Semana 5 : Busca e Ordenação](https://github.com/savio-henrique/ED-2022/tree/master/Sem5) :mag:
 * :black_large_square: [Semana 6 : Arvores](https://github.com/savio-henrique/ED-2022/tree/master/Sem6) :herb:
-* :black_large_square: Semana 7 : Grafos :chart_with_upwards_trend:
+* :black_large_square: [Semana 7 : Grafos](https://github.com/savio-henrique/ED-2022/tree/master/Sem6) :chart_with_upwards_trend:
