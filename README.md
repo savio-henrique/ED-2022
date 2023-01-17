@@ -1,7 +1,7 @@
 # :computer: Estrutura de Dados - 2022 :computer:
 
-### Estudo de Estrutura de Dados utilizando a linguagem *Python* :snake:
-### :black_small_square: Disciplina feita na [Universidade de Brasilia (UnB)](https://www.unb.br/) :black_small_square:
+<b style="font-size: 20px">Estudo de Estrutura de Dados utilizando a linguagem *Python* :snake:
+<p>:black_small_square: Disciplina feita na [Universidade de Brasilia (UnB)](https://www.unb.br/) :black_small_square:</p></b>
 
 # Conteúdo: :brain:
 
