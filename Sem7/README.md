@@ -8,8 +8,8 @@
 
 > Um grafo $G=(V,A)$ armazena as informações de um conjunto de vértices e outro de arestas.
 > Foi aprendido durante a disciplina que há diferentes formas de se realizar a representação de um grafo e uma delas é a **Matriz de Adjacência**.
-> Nessa matriz, dado um grafo $G$ com $n$ vértices, podemos representá-lo em uma matriz $n×n$ onde $A(G)=[a_i_j]$ (ou simplesmente $A$). A definição precisa 
-> das entradas da matriz varia de acordo com as propriedades do grafo que se deseja representar, porém de forma geral o valor $a_i_j$ guarda informações
+> Nessa matriz, dado um grafo $G$ com $n$ vértices, podemos representá-lo em uma matriz $n×n$ onde $A(G)=[a_{ij}]$ (ou simplesmente $A$). A definição precisa 
+> das entradas da matriz varia de acordo com as propriedades do grafo que se deseja representar, porém de forma geral o valor $a_{ij}$ guarda informações
 > sobre como os vértices $v_i$ e $v_j$ estão relacionados (isto é, informações sobre a adjacência de $v_i$ e $v_j$). Dessa forma, sua tarefa é, dado um grafo 
 > com seus respectivos vértices e arestas, imprimir essa representação utilizando uma matriz de adjacências.
 
