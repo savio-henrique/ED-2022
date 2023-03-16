@@ -4,6 +4,8 @@
 
 **:black_small_square: Disciplina feita na [Universidade de Brasilia (UnB)](https://www.unb.br/) :black_small_square:**
 
+**Professor: [Gabriel Ferreira](https://github.com/Gabrielcarvfer)
+
 # Conteúdo: :brain:
 
 * :ballot_box_with_check: [Semana 1 : Introdução](https://github.com/savio-henrique/ED-2022/tree/master/Sem1) :desktop_computer:
